@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\En_Cok_Satanlar-6xDaBI-0.png",
+      "PackagePath": "staticwebassets\\assets\\En_Cok_Satanlar-6xDaBI-0.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\Mavi-CiwjcapG.png",
+      "PackagePath": "staticwebassets\\assets\\Mavi-CiwjcapG.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\Reebok-JTzGMFmR.png",
+      "PackagePath": "staticwebassets\\assets\\Reebok-JTzGMFmR.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\Senin_Icin_Sectik-BvJ3_smL.png",
+      "PackagePath": "staticwebassets\\assets\\Senin_Icin_Sectik-BvJ3_smL.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\Widget-DImtmVjm.png",
+      "PackagePath": "staticwebassets\\assets\\Widget-DImtmVjm.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\index-DSEFlddX.css",
+      "PackagePath": "staticwebassets\\assets\\index-DSEFlddX.css"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\index-mgu6_7w4.js",
+      "PackagePath": "staticwebassets\\assets\\index-mgu6_7w4.js"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-D6mjswgs.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-300-normal-D6mjswgs.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-UX5PCucy.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-300-normal-UX5PCucy.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-DCQqOlfN.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-400-normal-DCQqOlfN.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-400-normal-DVDTZtmW.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-400-normal-DVDTZtmW.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-DAkZhMOh.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-500-normal-DAkZhMOh.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-500-normal-QpWeYsca.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-500-normal-QpWeYsca.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-B5ZBKWCH.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-700-normal-B5ZBKWCH.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-700-normal-DAIxw5xX.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-700-normal-DAIxw5xX.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-C7AGhuC_.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-300-normal-C7AGhuC_.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-300-normal-TzZWIuiO.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-300-normal-TzZWIuiO.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal--KougVX-.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-400-normal--KougVX-.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-400-normal-DORK9bGA.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-400-normal-DORK9bGA.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-G9W8hgzQ.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-500-normal-G9W8hgzQ.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-500-normal-sraxM_lR.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-500-normal-sraxM_lR.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-CsrCEJIc.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-700-normal-CsrCEJIc.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-cyrillic-ext-700-normal-dDOtDc5i.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-cyrillic-ext-700-normal-dDOtDc5i.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-300-normal-Dgbe-dnN.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-300-normal-Dgbe-dnN.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-300-normal-ndiuWqED.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-300-normal-ndiuWqED.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-400-normal-BRWHCUYo.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-400-normal-BRWHCUYo.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-400-normal-BnGNaKeW.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-400-normal-BnGNaKeW.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-500-normal-CVjdsdX9.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-500-normal-CVjdsdX9.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-500-normal-CpESfwfG.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-500-normal-CpESfwfG.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-700-normal-Cc2Tq8FV.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-700-normal-Cc2Tq8FV.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-greek-700-normal-CjuTpGfE.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-greek-700-normal-CjuTpGfE.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-300-normal-ThHrQhYb.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-300-normal-ThHrQhYb.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-300-normal-lq7MgJXa.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-300-normal-lq7MgJXa.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-400-normal-BU1SoK4h.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-400-normal-BU1SoK4h.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-400-normal-mTIRXP6Y.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-400-normal-mTIRXP6Y.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-500-normal-Dcm-rhWF.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-500-normal-Dcm-rhWF.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-500-normal-Dxdx3aXO.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-500-normal-Dxdx3aXO.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-700-normal-Bh431LEL.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-700-normal-Bh431LEL.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-700-normal-CeM5gOv8.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-700-normal-CeM5gOv8.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-CaUuWeqj.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-300-normal-CaUuWeqj.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-300-normal-DEsNdRC-.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-300-normal-DEsNdRC-.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-4bLplyDh.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-400-normal-4bLplyDh.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-400-normal-DloBNwoc.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-400-normal-DloBNwoc.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-B9pAx_JH.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-500-normal-B9pAx_JH.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-500-normal-BWKy6SgX.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-500-normal-BWKy6SgX.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-BYGCo3Go.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-700-normal-BYGCo3Go.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-latin-ext-700-normal-DwUXTeTv.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-latin-ext-700-normal-DwUXTeTv.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-CnPrVvBs.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-300-normal-CnPrVvBs.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-300-normal-DOxDZ6bW.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-300-normal-DOxDZ6bW.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-BkEBOAV9.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-400-normal-BkEBOAV9.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-400-normal-kCRe3VZk.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-400-normal-kCRe3VZk.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-Bwg8Dbh6.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-500-normal-Bwg8Dbh6.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-500-normal-CcijQRVW.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-500-normal-CcijQRVW.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-Mc0c6qif.woff",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-700-normal-Mc0c6qif.woff"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\assets\\roboto-vietnamese-700-normal-SekShQfT.woff2",
+      "PackagePath": "staticwebassets\\assets\\roboto-vietnamese-700-normal-SekShQfT.woff2"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\Defacto.png",
+      "PackagePath": "staticwebassets\\images\\menu\\Defacto.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\En_Cok_Satanlar.png",
+      "PackagePath": "staticwebassets\\images\\menu\\En_Cok_Satanlar.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\Mavi.png",
+      "PackagePath": "staticwebassets\\images\\menu\\Mavi.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\Nike.png",
+      "PackagePath": "staticwebassets\\images\\menu\\Nike.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\Reebok.png",
+      "PackagePath": "staticwebassets\\images\\menu\\Reebok.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\Senin_Icin_Sectik.png",
+      "PackagePath": "staticwebassets\\images\\menu\\Senin_Icin_Sectik.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\Widget.png",
+      "PackagePath": "staticwebassets\\images\\menu\\Widget.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\menu\\banner-girl.png",
+      "PackagePath": "staticwebassets\\images\\menu\\banner-girl.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocukaltusttakim1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocukaltusttakim1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocukaltusttakim2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocukaltusttakim2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocukaltusttakim3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocukaltusttakim3.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocukaltusttakim4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocukaltusttakim4.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocukaltusttakim5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocukaltusttakim5.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocukaltusttakim6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocukaltusttakim6.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuksweatshirt1.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuksweatshirt1.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuksweatshirt2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuksweatshirt2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuksweatshirt3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuksweatshirt3.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuksweatshirt4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuksweatshirt4.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuksweatshirt5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuksweatshirt5.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuktisort1.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuktisort1.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuktisort2.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuktisort2.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuktisort3.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuktisort3.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuktisort4.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuktisort4.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuktisort5.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuktisort5.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekcocuktisort6.png",
+      "PackagePath": "staticwebassets\\images\\products\\erkekcocuktisort6.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekesofmantakim1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekesofmantakim1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\erkekesofmantakim2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\erkekesofmantakim2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim10.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim3.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim4.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim5.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim6.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim7.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim8.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukaltusttakim9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukaltusttakim9.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise10.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise11.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise12.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise3.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise4.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise5.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise6.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise7.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise8.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukelbise9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukelbise9.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukpantolon1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukpantolon1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocukpantolon2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocukpantolon2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocuksweatshirt1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocuksweatshirt1.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocuksweatshirt2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocuksweatshirt2.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocuksweatshirt3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocuksweatshirt3.jpg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocuktisort1.png",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocuktisort1.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocuktisort2.png",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocuktisort2.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\images\\products\\kizcocuktisort3.png",
+      "PackagePath": "staticwebassets\\images\\products\\kizcocuktisort3.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\logo-owl.svg",
+      "PackagePath": "staticwebassets\\logo-owl.svg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\logo.svg",
+      "PackagePath": "staticwebassets\\logo.svg"
+    },
+    {
+      "Id": "C:\\EticaretProje\\API\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

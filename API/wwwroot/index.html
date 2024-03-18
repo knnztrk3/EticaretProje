@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/logo-owl.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/fontawesome.min.css"
+    integrity="sha512-d0olNN35C6VLiulAobxYHZiXJmq+vl+BGIgAxQtD5+kqudro/xNMvv2yIHAciGHpExsIbKX3iLg+0B6d0k4+ZA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!--====== Vendor Css ======-->
+
+  <!--====== Utility-Spacing ======-->
+
+  <!--====== App ======-->
+  <title>E-Ticaret Projesi</title>
+  <style>
+    .sag>li {
+      font-family: 'none';
+      font-size: 13px;
+      margin-right: 0px;
+      padding: 10px;
+    }
+
+    .sol {
+      font-size: 12px;
+      padding-bottom: 12px;
+      margin-left: 0px;
+    }
+
+    .yeniheader {
+      height: 35px !important;
+      margin-top: 0px;
+      border-bottom: 1px solid #ebebeb;
+    }
+
+    .cbk {
+      display: flex !important;
+      justify-content: center;
+      align-items: center;
+      color: #bfbfbf;
+    }
+
+    @media screen and (max-width: 767px) {
+      .yeniheader {
+        display: none;
+      }
+    }
+  </style>
+  <style>
+    /* Animasyonun stilleri */
+    @keyframes arkaPlanAnimasyonu {
+      0% {
+        background-position: 0% 50%;
+        /* Başlangıç pozisyonu */
+      }
+
+      50% {
+        background-position: 100% 50%;
+        /* Yarısı kadar kaydırma */
+      }
+
+      100% {
+        background-position: 0% 50%;
+        /* Tekrar başlangıç pozisyonuna dönme */
+      }
+    }
+
+    /* P etiketinin stilleri */
+    .topbar {
+      padding: 15px;
+      font-size: 16px;
+      text-align: center;
+      background: linear-gradient(45deg, #c4a29f, #b3705a, #fe7200);
+      /* Yumuşak geçişli üç renk */
+      background-size: 600% 600%;
+      /* Animasyon etkisi için background boyutunu büyütüyoruz */
+      animation: arkaPlanAnimasyonu 10s linear infinite;
+      /* Animasyonu tanımlıyoruz, daha hızlı olması için animation-duration değerini azalttık */
+    }
+
+    /* Linkin stilleri */
+    .topbar a {
+      text-decoration: none;
+      color: white;
+    }
+  </style>
+  <script type="module" crossorigin src="/assets/index-mgu6_7w4.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DSEFlddX.css">
+</head>
+
+<body>
+
+  <div>
+    <p class="topbar" style="padding:15px; font-size:16px;text-align:center;"><a
+        style="text-decoration:none; color:white;" href="http://localhost:3000/"><strong>750 TL ve Üzeri
+          Alışverişlerinizde </strong> Ücretsiz Kargo Fırsatı </a></p>
+    <div class="yeniheader" style="display: flex; justify-content: space-between; align-items: center; ">
+      <ul class="sol" style="list-style-type: none; display: flex;margin-left: 50px;">
+        <li style="margin-left: 50px;"><a href="tel:08501111111" style="text-decoration: none; color: #3d3b3b;"><i
+              style="color:5f5f5f; transform: rotateY(180deg);" class="fa-solid fa-phone"></i>&nbsp;&nbsp; 0850 111 11
+            11</a>&nbsp; - &nbsp;</li> &nbsp;&nbsp;
+        <li style="margin-right: 10px; text-decoration: none; color: #3d3b3b;"> Destek Hattı (09:00 - 19:00)</li>
+      </ul>
+      <ul class="sag" style="list-style-type: none; display: flex;margin-right: 50px; padding-bottom: 10px;">
+        <li><a href="/hakkimizda" style="text-decoration: none; color: #3d3b3b;font-family: 'none'"><i
+              class="fas fa-address-card"></i> Hakkımızda</a> </li> <span class="cbk">|</span>
+        <li><a href="/iletisim" style="text-decoration: none; color: #3d3b3b;font-family: 'none'"><i
+              class="fas fa-tty"></i> İletişim</a> </li> <span class="cbk">|</span>
+        <li><a href="/orders" style="text-decoration: none; color: #3d3b3b; font-family: 'none'"> Sipariş
+            Takip</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <section>
+    <div>
+      <style type="text/css">
+        body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+        }
+
+        .fast-storyslider {
+          list-style-type: none;
+          padding: 0;
+          margin: 0;
+          display: flex;
+          justify-content: space-evenly;
+          flex-wrap: wrap;
+          margin-bottom: 20px;
+        }
+
+        .marka {
+          /* margin: -60px; */
+          width: 150px;
+          text-align: center;
+        }
+
+        .marka img {
+          max-width: 100%;
+          height: auto;
+          border-radius: 8px;
+          transition: transform 0.3s ease;
+        }
+
+        .marka img:hover {
+          transform: scale(1.1);
+        }
+
+        .marka span {
+          display: block;
+          margin-top: 5px;
+        }
+      </style>
+      <ul class="fast-storyslider">
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 1" src="/assets/Senin_Icin_Sectik-BvJ3_smL.png"></a>
+          <span>Sana Özel</span>
+        </li>
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 2" src="/assets/En_Cok_Satanlar-6xDaBI-0.png"></a>
+          <span>En İyiler</span>
+        </li>
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 7" src="/assets/Widget-DImtmVjm.png"></a>
+          <span>Aynı Gün Teslim</span>
+        </li>
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 3"
+              src="data:image/png;base64,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"></a>
+          <span>Nike</span>
+        </li>
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 4" src="/assets/Mavi-CiwjcapG.png"></a>
+          <span>Mavi</span>
+        </li>
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 5"
+              src="data:image/png;base64,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"></a>
+          <span>Defacto</span>
+        </li>
+        <li class="marka">
+          <a href="/catalog"><img alt="Kategori 6" src="/assets/Reebok-JTzGMFmR.png"></a>
+          <span>Reebok</span>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <div id="root">
+  </div>
+  <!-- Footer Start -->
+
+  <footer>
+    <div class="outer-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="outer-footer__content u-s-m-b-40">
+
+              <span class="outer-footer__content-title">İletişim</span>
+              <div class="outer-footer__text-wrap"><i class="fas fa-home"></i>
+
+                <span>Bursa Yıldırım / Türkiye</span>
+              </div>
+              <div class="outer-footer__text-wrap"><i class="fas fa-phone-volume"></i>
+
+                <span>(+0) 900 901 904</span>
+              </div>
+              <div class="outer-footer__text-wrap"><i class="far fa-envelope"></i>
+
+                <span>contact@domain.com</span>
+              </div>
+              <div class="outer-footer__social">
+                <ul>
+                  <li>
+
+                    <a class="s-fb--color-hover" href="#"><i class="fab fa-facebook-f"></i></a>
+                  </li>
+                  <li>
+
+                    <a class="s-tw--color-hover" href="#"><i class="fab fa-twitter"></i></a>
+                  </li>
+                  <li>
+
+                    <a class="s-youtube--color-hover" href="#"><i class="fab fa-youtube"></i></a>
+                  </li>
+                  <li>
+
+                    <a class="s-insta--color-hover" href="#"><i class="fab fa-instagram"></i></a>
+                  </li>
+                  <li>
+
+                    <a class="s-gplus--color-hover" href="#"><i class="fab fa-google-plus-g"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="row">
+              <div class="col-lg-6 col-md-6">
+                <div class="outer-footer__content u-s-m-b-40">
+
+                  <span class="outer-footer__content-title">Alışveriş Bilgileri</span>
+                  <div class="outer-footer__list-wrap">
+                    <ul>
+                      <li>
+
+                        <a href="#">Sepetim</a>
+                      </li>
+                      <li>
+
+                        <a href="#">Hesabım</a>
+                      </li>
+                      <li>
+
+                        <a href="#">Siparişlerim</a>
+                      </li>
+                      <li>
+
+                        <a href="catalog">Ürünlere Gözat</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-6">
+                <div class="outer-footer__content u-s-m-b-40">
+                  <div class="outer-footer__list-wrap">
+
+                    <span class="outer-footer__content-title">Our Company</span>
+                    <ul>
+                      <li>
+
+                        <a href="about.html">About us</a>
+                      </li>
+                      <li>
+
+                        <a href="contact.html">Contact Us</a>
+                      </li>
+                      <li>
+
+                        <a href="index.html">Sitemap</a>
+                      </li>
+                      <li>
+
+                        <a href="dash-my-order.html">Delivery</a>
+                      </li>
+                      <li>
+
+                        <a href="shop-side-version-2.html">Store</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12">
+            <div class="outer-footer__content">
+
+              <span class="outer-footer__content-title">Join our Newsletter</span>
+              <form class="newsletter">
+                <div class="u-s-m-b-15">
+                  <div class="radio-box newsletter__radio">
+
+                    <input type="radio" id="male" name="gender">
+                    <div class="radio-box__state radio-box__state--primary">
+
+                      <label class="radio-box__label" for="male">Male</label>
+                    </div>
+                  </div>
+                  <div class="radio-box newsletter__radio">
+
+                    <input type="radio" id="female" name="gender">
+                    <div class="radio-box__state radio-box__state--primary">
+
+                      <label class="radio-box__label" for="female">Female</label>
+                    </div>
+                  </div>
+                </div>
+                <div class="newsletter__group">
+
+                  <label for="newsletter"></label>
+
+                  <input class="input-text input-text--only-white" type="text" id="newsletter"
+                    placeholder="Enter your Email">
+
+                  <button class="btn btn--e-brand newsletter__btn" type="submit">SUBSCRIBE</button>
+                </div>
+
+                <span class="newsletter__text">Subscribe to the mailing list to receive updates on
+                  promotions, new arrivals, discount and coupons.</span>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="lower-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="lower-footer__content">
+              <div class="lower-footer__copyright">
+
+                <span>Copyright © 2018</span>
+
+                <a href="index.html">Reshop</a>
+
+                <span>All Right Reserved</span>
+              </div>
+              <div class="lower-footer__payment">
+                <ul>
+                  <li><i class="fab fa-cc-stripe"></i></li>
+                  <li><i class="fab fa-cc-paypal"></i></li>
+                  <li><i class="fab fa-cc-mastercard"></i></li>
+                  <li><i class="fab fa-cc-visa"></i></li>
+                  <li><i class="fab fa-cc-discover"></i></li>
+                  <li><i class="fab fa-cc-amex"></i></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Footer End -->
+</body>
+
+</html>
